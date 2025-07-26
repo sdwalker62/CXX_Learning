@@ -1,0 +1,19 @@
+# Compiled files
+*.out
+*.o
+a.out
+
+# Debug files
+*.dSYM/
+
+# Executables (no extension on Mac/Linux)
+*
+!*.*
+!*/
+!Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+.DS_Store
