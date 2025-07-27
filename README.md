@@ -2,7 +2,7 @@
 
 ## Installation
 
-### Install Latest of Make
+### Make
 
 ```bash
 # Install build dependencies
