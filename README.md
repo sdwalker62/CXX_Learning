@@ -84,3 +84,15 @@ pipx install conan
 pipx ensurepath
 source ~/.bashrc
 ```
+
+### Install Valgrind
+
+```bash
+sudo apt install valgrind
+```
+
+### Doxygen
+
+```bash
+sudo apt install doxygen graphviz
+```
