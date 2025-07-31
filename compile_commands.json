@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-g",
+      "-fsanitize=address,undefined",
+      "-o",
+      "primer_5e/test/binary_search",
+      "primer_5e/test/binary_search.cpp"
+    ],
+    "directory": "/Users/dalton/Development/cxx_learning",
+    "file": "/Users/dalton/Development/cxx_learning/primer_5e/test/binary_search.cpp",
+    "output": "/Users/dalton/Development/cxx_learning/primer_5e/test/binary_search"
+  }
+]

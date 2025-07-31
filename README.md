@@ -44,7 +44,7 @@ sudo make install
 ```bash
 # Install dependencies
 sudo apt update
-sudo apt install build-essential cmake ninja-build python3
+sudo apt install build-essential ninja-build python3
 
 # Clone LLVM repository
 git clone https://github.com/llvm/llvm-project.git
@@ -65,7 +65,17 @@ cmake -G Ninja -DCMAKE_BUILD_TYPE=Release \
 ninja
 
 # Install
+```bash
 sudo ninja install
+```
+
+or to build from source
+
+```bash
+git clone https://github.com/ninja-build/ninja.git
+cd ninja
+./configure.py --bootstrap
+sudo cp ninja /usr/local/bin/
 ```
 
 ### Conan
