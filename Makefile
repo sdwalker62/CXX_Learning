@@ -1,7 +1,7 @@
 # Compiler and flags
 CXX = /opt/homebrew/opt/llvm/bin/clang++
 CXXFLAGS = -std=c++20 -Wall -Wextra -pedantic
-DEBUGFLAGS = -g -fsanitize=address,undefined
+DEBUGFLAGS = -fsanitize=address,undefined
 
 # Find all .cpp files recursively
 SOURCES := $(shell find . -name "*.cpp" -type f)
