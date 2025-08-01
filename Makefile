@@ -1,5 +1,5 @@
 # Compiler and flags
-CXX = clang++
+CXX = /opt/homebrew/opt/llvm/bin/clang++
 CXXFLAGS = -std=c++20 -Wall -Wextra -pedantic
 DEBUGFLAGS = -g -fsanitize=address,undefined
 

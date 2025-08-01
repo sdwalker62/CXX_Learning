@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     'primer_5e/test/binary_search'
+binary-path:     'primer_5e/chapter_1/getting_started'
 relocations:     []
 ...
