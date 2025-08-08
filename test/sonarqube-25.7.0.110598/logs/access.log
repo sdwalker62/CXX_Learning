@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Aug/2025:22:18:19 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "18a8d14a-97f0-4852-ac26-4fb382179758" 9
+127.0.0.1 - - [05/Aug/2025:22:18:19 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "9c7c9a55-e866-4704-a668-fc9178801221" 9
+127.0.0.1 - - [05/Aug/2025:22:18:19 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "b1f46750-923f-42e7-91f1-05b73959e52e" 1
+127.0.0.1 - - [05/Aug/2025:22:18:19 -0400] "GET /api/authentication/validate?format=json HTTP/1.1" 200 14 "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "cb05e31f-49b2-4a29-9363-34857d8db686" 4
+127.0.0.1 - - [05/Aug/2025:22:18:19 -0400] "GET /api/components/search.protobuf?qualifiers=TRK&ps=500&p=1 HTTP/1.1" 200 9 "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "6469d5a4-b611-4448-a605-2ee39ebed207" 17
+127.0.0.1 - - [05/Aug/2025:22:18:56 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "b6c8a7ea-e365-43f2-ac86-f9430c06ad7a" 2
+127.0.0.1 - - [05/Aug/2025:22:18:56 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "9a17d823-867c-441a-a99e-5a46cc746973" 2
+127.0.0.1 - - [05/Aug/2025:22:18:56 -0400] "GET /api/authentication/validate?format=json HTTP/1.1" 200 14 "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "20fb71d0-1a29-4b9c-b439-3b6fdaf0fee3" 5
+127.0.0.1 - - [05/Aug/2025:22:18:57 -0400] "GET /api/system/status HTTP/1.1" 200 - "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "a26180e2-2684-4c35-bc61-b40408cfcd61" 4
+127.0.0.1 - - [05/Aug/2025:22:18:57 -0400] "GET /api/components/search.protobuf?qualifiers=TRK&ps=500&p=1 HTTP/1.1" 200 9 "-" "SonarQube for IDE (SonarLint) - Visual Studio Code 4.27.0+77998 - 1.102.3" "0a3871c5-5a27-4c9e-ad05-c13147a1aa85" 12

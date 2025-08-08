@@ -1,0 +1,6 @@
+2025.08.06 04:36:20 INFO  app[][o.s.a.SchedulerImpl] Stopping SonarQube
+2025.08.06 04:36:20 INFO  app[][o.s.a.SchedulerImpl] Sonarqube has been requested to stop
+2025.08.06 04:36:20 INFO  app[][o.s.a.SchedulerImpl] Stopping [Compute Engine] process...
+2025.08.06 04:36:20 WARN  app[][o.s.a.p.AbstractManagedProcess] Process exited with exit value [Compute Engine]: 143
+2025.08.06 04:36:20 INFO  app[][o.s.a.SchedulerImpl] Process[Compute Engine] is stopped
+2025.08.06 04:36:20 INFO  app[][o.s.a.SchedulerImpl] Stopping [Web Server] process...

@@ -1,0 +1,12 @@
+2025.08.06 00:06:31 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s790ms).
+2025.08.06 00:57:04 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m2s695ms).
+2025.08.06 02:11:27 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m23s760ms).
+2025.08.06 03:13:59 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m31s846ms).
+2025.08.06 04:03:48 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m48s978ms).
+2025.08.06 04:34:55 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m6s503ms).
+2025.08.06 04:36:20 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2025.08.06 04:36:20 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2025.08.06 04:36:20 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2025.08.06 04:36:20 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Shutdown initiated...
+2025.08.06 04:36:20 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Shutdown completed.
+2025.08.06 04:36:20 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
